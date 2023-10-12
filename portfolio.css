@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 16px;
+}
+.header1{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 16px;}
+.div1{
+    background-image: url('image/green.jpg');
+    width: 100%;
+    height: 150px;
+}
+.div2{
+    max-width: 800px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.section{
+    flex: 1;
+    background-image: url('image/new.jpg');
+    color: black;
+    padding: 25px;
+    border-radius: 19px;
+    height: 300px;
+}
+.box{
+    display:flex;
+    justify-content:space-between;
+    background-color: white;
+    width: 40px;
+}
